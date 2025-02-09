@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">        
+    <title>Jaden Wilder - Personal Profile</title>
+</head>
+<body>
+    <h1>Jaden Wilder</h1>
+    
+    <h2>About Me</h2>
+    <p>My name is Jaden Wilder. I am an 18-year-old freshman at Newberry College, majoring in Computer Science with a path leading to software development. I enjoy gaming, listening to music, and drawing occasionally.</p>
+    
+    <h2>My Favorite Hobby</h2>
+    <p>My hobbies consist of gaming, listening to music, and drawing sometimes. Music to me is a relaxer and even motivation. There is a song for every way I feel. Gaming is the hobby I do the most. It's a way for me to take my mind off of work or even problems. Whether I’m exploring new worlds, competing with friends, or just enjoying a great story, gaming helps me relax and have fun.</p>
+    
+    <h2>Favorite Books</h2>
+    <ol>
+        <li>The Great Gatsby</li>
+        <li>The Pearl</li>
+        <li>Of Mice And Men</li>
+    </ol>
+    
+    <h3>Least Favorite Movies</h3>
+    <ul>
+        <li>Any of the Mad Max movies</li>
+        <li>Suicide Squad 2</li>
+    </ul>
+    
+    <h2>Favorite Website</h2>
+    <p>One of my favorite websites is <a href="https://www.youtube.com" target="_blank">YouTube</a>. I use it to watch gaming content, music videos, and learn new things.</p>
+    
+    <h2>My Favorite Hobby</h2>
+    <img src="gaming.jpg" alt="An image representing gaming, my favorite hobby" width="300">
+    
+    <h2>My Class Schedule</h2>
+    <table border="1">
+        <tr>
+            <th>Class Name</th>
+            <th>Class Day/Time</th>
+            <th>Class Description</th>
+        </tr>
+        <tr>
+            <td>Pre-Calculus</td>
+            <td>Monday 9:55-10:45 AM, Tuesday & Thursday 9:15-10:30 AM</td>
+            <td>Mathematical concepts including functions, algebra, and trigonometry.</td>
+        </tr>
+        <tr>
+            <td>English 113</td>
+            <td>Monday, Wednesday, Friday 11:00-11:50 AM</td>
+            <td>Introduction to college-level writing and literary analysis.</td>
+        </tr>
+        <tr>
+            <td>History</td>
+            <td>Monday, Wednesday, Friday 12:05-12:55 PM</td>
+            <td>Study of historical events and their impact on society.</td>
+        </tr>
+        <tr>
+            <td>College Life Class</td>
+            <td>Wednesday 8:50-9:40 AM</td>
+            <td>Introduction to college resources, study habits, and career planning.</td>
+        </tr>
+        <tr>
+            <td>Online Classes</td>
+            <td>Self-Paced</td>
+            <td>Additional coursework completed online.</td>
+        </tr>
+    </table>
+</body>
+</html>
